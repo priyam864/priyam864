@@ -57,5 +57,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=priyam864&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+[![An image of @priyam864's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyam864)](https://holopin.io/@priyam864)
 
 ###
