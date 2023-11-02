@@ -30,10 +30,13 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
 ###
+<h3 align="left">Holopin badges-Hacktoberfest 2023 </h3>
+<a href="https://holopin.io/@priyam864">
+  <img src="https://holopin.me/priyam864" alt="Priyam864's Holopin badges">
+</a>
 
+<h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -57,10 +60,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=priyam864&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-
-<a href="https://holopin.io/@priyam864">
-  <img src="https://holopin.me/priyam864" alt="Priyam864's Holopin badges">
-</a>
 
 ###
