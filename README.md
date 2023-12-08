@@ -31,10 +31,7 @@
 ###
 
 ###
-<h3 align="left">Holopin badges-Hacktoberfest 2023 </h3>
-<a href="https://holopin.io/@priyam864">
-  <img src="https://holopin.me/priyam864" alt="Priyam864's Holopin badges">
-</a>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
