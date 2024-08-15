@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me<br> #I am first year undergrad student at Bangalore Institute of Technology.<br>#Data-Science Enthusiast</h3>
+<h3 align="left">👩‍💻  About Me<br> #I am Second year undergrad student at Bangalore Institute of Technology.<br>#Data-Science Enthusiast</h3>
 
 ###
 
